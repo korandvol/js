@@ -1,0 +1,11 @@
+This repository consists of Javascript examples:
+- basics constructions
+- object, functions, errors
+- arrays
+- arrays methods
+- closures, moduls
+- oop
+- querySelectors, attributes
+- events
+- form, AJAX
+- jQuery
